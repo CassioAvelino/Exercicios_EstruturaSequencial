@@ -32,6 +32,6 @@ código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 
 4. Executar o arquivo com funcionalidade
 ```
 
-## 👟 Próximos passo:
+## 👟 Próximo passo:
 - [ ] Otimizar os códigos, diminuindo a quantidade de linhas e torna-lo mais simples de compreender.
 
