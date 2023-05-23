@@ -1,3 +1,6 @@
+> *"Quando você desvaloriza o que você faz, o mundo desvaloriza quem você é."* 
+> - *Oprah Winfrey*
+
 # Exercicios_EstruturaSequencial
 Lista de Exercícos do Curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos] - Seção 4 - Nelio Alves. <br><br>
 
