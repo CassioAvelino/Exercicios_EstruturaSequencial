@@ -4,6 +4,8 @@
 # Exercicios_EstruturaSequencial
 Lista de Exercícos do Curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos] - Seção 4 - Nelio Alves. <br><br>
 
+Problemas resolvidos para treinar como é o Funcionamento Sequencial de um Código.
+
 1️⃣ Programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números. <br>
 2️⃣ Programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo. <br>
 3️⃣ Programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
